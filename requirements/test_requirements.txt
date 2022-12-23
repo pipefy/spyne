@@ -21,3 +21,4 @@ pyparsing>=2.0.2
 suds-community
 zeep
 pandas
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
